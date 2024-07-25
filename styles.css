@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+h1{
+	text-align:center;
+}
+table{
+	width:100%;
+}
+table,tr,td{
+    border-collapse:collapse;
+	border:1px solid black;
+	text-align:center;
+	padding:9px;
+}
+.green{
+	height:20px;
+	width:100%;
+	background-color:green;
+}
+.blue{
+	height:20px;
+	width:100%;
+	background-color:blue;
+}
